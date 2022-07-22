@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-04-intermediate-microeconomic-theory-fall-2006/308c037d6acae758c161197445809747_ps5_soln.pdf
+file: /courses/14-04-intermediate-microeconomic-theory-fall-2006/308c037d6acae758c161197445809747_ps5_soln.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
