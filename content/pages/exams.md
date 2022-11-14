@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides sample exams, study topics, and review notes for
+  course exams.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -12,27 +14,27 @@ Two exams, a midterm and final, were given in the course. Sample exams, study to
 Previous Midterms
 -----------------
 
-Sample 1 ([PDF]({{< baseurl >}}/resources/midterm1))
+Sample 1 ({{% resource_link 415cd13b-8ab7-a63a-80c8-e281c7b226e4 "PDF" %}})
 
-Sample 2 ([PDF]({{< baseurl >}}/resources/midterm2))
+Sample 2 ({{% resource_link d520a433-1b89-ecfc-70e9-07e5491f855f "PDF" %}})
 
-Sample 3 ([PDF]({{< baseurl >}}/resources/midterm3))
+Sample 3 ({{% resource_link 039fad38-087e-e071-b7df-76f0cffb9ae4 "PDF" %}})
 
-Sample 4 ([PDF]({{< baseurl >}}/resources/midterm4))
+Sample 4 ({{% resource_link 3c89c2da-43a9-2246-7ddf-d3f1f9313993 "PDF" %}})
 
 Fall 2006 Exams
 ---------------
 
 ### Exam 1
 
-Topics ([PDF]({{< baseurl >}}/resources/exam1_topics))
+Topics ({{% resource_link dc101c92-12a9-2f5d-29c1-f783ddf47faf "PDF" %}})
 
-Review ([PDF]({{< baseurl >}}/resources/exam1_review))
+Review ({{% resource_link 0726e54e-2284-67e8-be4d-a5542db3de64 "PDF" %}})
 
-Exam 1 ([PDF]({{< baseurl >}}/resources/exam1_f06))
+Exam 1 ({{% resource_link 2f5e8e2e-33d0-9e1e-72df-ed07dbba900c "PDF" %}})
 
 ### Exam 2
 
-Topics ([PDF]({{< baseurl >}}/resources/exam2_topics))
+Topics ({{% resource_link a0e7cfeb-37e4-0fff-074a-9bbb1bffc008 "PDF" %}})
 
-Review ([PDF]({{< baseurl >}}/resources/exam2_review))
+Review ({{% resource_link 0c674a49-1793-f05f-d219-2c96103beb6e "PDF" %}})
