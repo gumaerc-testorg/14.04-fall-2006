@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains three questions for the midterm exams.
-file: /courses/14-04-intermediate-microeconomic-theory-fall-2006/039fad38087ee071b7df76f0cffb9ae4_midterm3.pdf
+file: /ol-ocw-studio-app/courses/14-04-intermediate-microeconomic-theory-fall-2006/039fad38087ee071b7df76f0cffb9ae4_midterm3.pdf
+file_size: 69354
 file_type: application/pdf
 learning_resource_types:
 - Exams

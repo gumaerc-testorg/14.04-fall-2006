@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-04-intermediate-microeconomic-theory-fall-2006/308c037d6acae758c161197445809747_ps5_soln.pdf
+file: /ol-ocw-studio-app/courses/14-04-intermediate-microeconomic-theory-fall-2006/308c037d6acae758c161197445809747_ps5_soln.pdf
+file_size: 91298
 file_type: application/pdf
 learning_resource_types:
 - Assignments

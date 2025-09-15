@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains four problem statements for the midterm exam.
-file: /courses/14-04-intermediate-microeconomic-theory-fall-2006/3c89c2da43a922467ddfd3f1f9313993_midterm4.pdf
+file: /ol-ocw-studio-app/courses/14-04-intermediate-microeconomic-theory-fall-2006/3c89c2da43a922467ddfd3f1f9313993_midterm4.pdf
+file_size: 61670
 file_type: application/pdf
 learning_resource_types:
 - Exams

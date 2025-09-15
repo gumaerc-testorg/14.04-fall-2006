@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains five problem statements to test the students understanding
   of the course.
-file: /courses/14-04-intermediate-microeconomic-theory-fall-2006/3c0ea03efe226622cb6879c67f8a478e_ps7.pdf
+file: /ol-ocw-studio-app/courses/14-04-intermediate-microeconomic-theory-fall-2006/3c0ea03efe226622cb6879c67f8a478e_ps7.pdf
+file_size: 62436
 file_type: application/pdf
 learning_resource_types:
 - Assignments

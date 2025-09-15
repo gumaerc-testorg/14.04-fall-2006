@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains three final exams questions.
-file: /courses/14-04-intermediate-microeconomic-theory-fall-2006/2f5e8e2e33d09e1e72dfed07dbba900c_exam1_f06.pdf
+file: /ol-ocw-studio-app/courses/14-04-intermediate-microeconomic-theory-fall-2006/2f5e8e2e33d09e1e72dfed07dbba900c_exam1_f06.pdf
+file_size: 72566
 file_type: application/pdf
 learning_resource_types:
 - Exams

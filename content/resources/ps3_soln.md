@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains solution to the problem set three.
-file: /courses/14-04-intermediate-microeconomic-theory-fall-2006/69d8ca60ac197012d73998d34c490642_ps3_soln.pdf
+file: /ol-ocw-studio-app/courses/14-04-intermediate-microeconomic-theory-fall-2006/69d8ca60ac197012d73998d34c490642_ps3_soln.pdf
+file_size: 101957
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains some graphs containing Walrasian equilibrium,
   game theory, industrial organization, reaction curves12(), 2nddegree PD, externalities.
-file: /courses/14-04-intermediate-microeconomic-theory-fall-2006/0c674a491793f05fd2192c96103beb6e_exam2_review.pdf
+file: /ol-ocw-studio-app/courses/14-04-intermediate-microeconomic-theory-fall-2006/0c674a491793f05fd2192c96103beb6e_exam2_review.pdf
+file_size: 59204
 file_type: application/pdf
 learning_resource_types:
 - Exams
